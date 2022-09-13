@@ -4,4 +4,4 @@ I'm a Software Engineer at Silicon Labs with 25 years experience of embedded app
 
 ## Matter
 
-[Matter Build Environment: Ubuntu on VirtualBox](matter/build-environment.md)
+[Matter Build Environment:](matter/build-environment.md) Using Ubuntu on VirtualBox
