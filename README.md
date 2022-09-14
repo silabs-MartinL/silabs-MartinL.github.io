@@ -4,4 +4,9 @@ I'm a Software Engineer at Silicon Labs with 25 years experience of embedded app
 
 ## Matter
 
-* [Matter Build Environment:](matter/build-environment.md) Using Ubuntu on VirtualBox
+* [Matter Build Environment](matter/build-environment.md): Using Ubuntu on VirtualBox
+* * [mattertool Commands](matter/mattertool-commands.md): Formation, joining, ACL and bindings
+
+## Tools
+
+* [OBS Studio](tools/obs-studio.md): Tips on using OBS Studio to record videos
