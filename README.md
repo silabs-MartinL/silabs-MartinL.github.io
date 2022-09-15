@@ -9,4 +9,4 @@ I'm a Software Engineer at Silicon Labs with 25 years experience of embedded app
 
 ## Tools
 
-* [OBS Studio](tools/obs-studio.md): Tips on using OBS Studio to record videos
+* [Video Recording and Editing](tools/video-recording-and-editing.md): Tips on recording and editing videos
